@@ -1,0 +1,21 @@
+// Esto es scss
+
+$secundario: #aaaaaa;
+$primario: #44444444;
+$tamanyo: 20px;
+
+body{
+        background-color: $secundario;
+        color: $primario;
+}
+
+ul{
+    background-color: blue;
+    padding: 20px;
+    li{
+        background-color: $secundario;
+        &:hover{            
+            font-size: $tamanyo*2;
+        }
+    }
+}
