@@ -1,0 +1,15 @@
+body {
+  background-color: #aaaaaa;
+  color: rgba(68, 68, 68, 0.2666666667);
+}
+
+ul {
+  background-color: blue;
+  padding: 20px;
+}
+ul li {
+  background-color: #aaaaaa;
+}
+ul li:hover {
+  font-size: 40px;
+}/*# sourceMappingURL=estilo.css.map */
